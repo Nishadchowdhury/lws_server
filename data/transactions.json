@@ -1,82 +1,80 @@
-{
-    "transactions": [
-        {
-            "name": "Google salary AUG-2022",
-            "type": "income",
-            "amount": 12121,
-            "id": 1
-        },
-        {
-            "name": "1001",
-            "type": "income",
-            "amount": 1001,
-            "id": 2
-        },
-        {
-            "name": "Nisahd Chow",
-            "type": "income",
-            "amount": 100000,
-            "id": 3
-        },
-        {
-            "name": "fsad",
-            "type": "expense",
-            "amount": 2142,
-            "id": 4
-        },
-        {
-            "name": "432",
-            "type": "income",
-            "amount": 4324,
-            "id": 5
-        },
-        {
-            "name": "43241",
-            "type": "expense",
-            "amount": 43214,
-            "id": 6
-        },
-        {
-            "name": "4324324324",
-            "type": "income",
-            "amount": 32432432,
-            "id": 8
-        },
-        {
-            "name": "324324324",
-            "type": "income",
-            "amount": 32432,
-            "id": 10
-        },
-        {
-            "name": "432432432",
-            "type": "income",
-            "amount": 432432,
-            "id": 11
-        },
-        {
-            "name": "32423423432",
-            "type": "income",
-            "amount": 4324324,
-            "id": 12
-        },
-        {
-            "name": "4324324324",
-            "type": "income",
-            "amount": 43214324,
-            "id": 13
-        },
-        {
-            "name": "323",
-            "type": "income",
-            "amount": 323,
-            "id": 15
-        },
-        {
-            "name": "koka",
-            "type": "expense",
-            "amount": 432,
-            "id": 16
-        }
-    ]
-}
+[
+    {
+        "name": "Google salary AUG-2022",
+        "type": "income",
+        "amount": 12121,
+        "id": 1
+    },
+    {
+        "name": "1001",
+        "type": "income",
+        "amount": 1001,
+        "id": 2
+    },
+    {
+        "name": "Nisahd Chow",
+        "type": "income",
+        "amount": 100000,
+        "id": 3
+    },
+    {
+        "name": "fsad",
+        "type": "expense",
+        "amount": 2142,
+        "id": 4
+    },
+    {
+        "name": "432",
+        "type": "income",
+        "amount": 4324,
+        "id": 5
+    },
+    {
+        "name": "43241",
+        "type": "expense",
+        "amount": 43214,
+        "id": 6
+    },
+    {
+        "name": "4324324324",
+        "type": "income",
+        "amount": 32432432,
+        "id": 8
+    },
+    {
+        "name": "324324324",
+        "type": "income",
+        "amount": 32432,
+        "id": 10
+    },
+    {
+        "name": "432432432",
+        "type": "income",
+        "amount": 432432,
+        "id": 11
+    },
+    {
+        "name": "32423423432",
+        "type": "income",
+        "amount": 4324324,
+        "id": 12
+    },
+    {
+        "name": "4324324324",
+        "type": "income",
+        "amount": 43214324,
+        "id": 13
+    },
+    {
+        "name": "323",
+        "type": "income",
+        "amount": 323,
+        "id": 15
+    },
+    {
+        "name": "koka",
+        "type": "expense",
+        "amount": 432,
+        "id": 16
+    }
+]
