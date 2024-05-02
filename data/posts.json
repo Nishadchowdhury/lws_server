@@ -1,0 +1,1092 @@
+ [
+      {
+        "basicInformation": {
+          "jobID": "1",
+          "title": "Software Engineer",
+          "postedDate": "2024-05-01",
+          "closingDate": "2024-05-15"
+        },
+        "jobDetails": {
+          "description": "We are looking for a talented Software Engineer to join our team.",
+          "jobType": "Full-time",
+          "roleCategory": "Engineering",
+          "responsibilities": "Responsibilities will include developing high-quality software applications.",
+          "skillsAndExperience": "Candidates should have experience with JavaScript, React, and Node.js.",
+          "experienceLevel": "Mid-level",
+          "ourOffer": "We offer competitive salary and benefits, as well as opportunities for career growth."
+        },
+        "companyDetails": {
+          "companyID": "123",
+          "companyName": "Example Company"
+        },
+        "locationAndRemoteWork": {
+          "city": "New York",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science or related field",
+          "experienceRequired": 2,
+          "skillsRequired": ["JavaScript", "React", "Node.js"]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": ["Hybrid", "Health insurance", "401(k) matching"]
+        },
+        "applicationProcess": {
+          "howToApply": "Please submit your resume and cover letter via our website.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "John Doe",
+          "email": "john.doe@example.com",
+          "phoneNumber": "+1 (123) 456-7890"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010250-6f37a62b-737f-4380-93da-8563a1c3c73f.svg",
+          "jobURL": "https://www.examplecompany.com/jobs/software-engineer",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Technology",
+          "slugURL": "software-engineer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Example Company is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "2",
+          "title": "Data Analyst",
+          "postedDate": "2024-05-02",
+          "closingDate": "2024-05-16"
+        },
+        "jobDetails": {
+          "description": "We are seeking a skilled Data Analyst to join our analytics team.",
+          "jobType": "Full-time",
+          "roleCategory": "Data Science",
+          "responsibilities": "Responsibilities include analyzing large datasets and generating insights.",
+          "skillsAndExperience": "Candidates should be proficient in SQL, Python, and data visualization techniques.",
+          "experienceLevel": "Entry-level",
+          "ourOffer": "We offer competitive salary and benefits, as well as opportunities for professional development."
+        },
+        "companyDetails": {
+          "companyID": "456",
+          "companyName": "ABC Analytics"
+        },
+        "locationAndRemoteWork": {
+          "city": "San Francisco",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science, Statistics, or related field",
+          "experienceRequired": 0,
+          "skillsRequired": ["SQL", "Python", "Data Analysis"]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 80 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "🌎 Remote",
+            "Hea lth insurance",
+            "Paid time off"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and portfolio.",
+          "applicationRequirements": ["Resume", "Portfolio"]
+        },
+        "contactInformation": {
+          "contactPerson": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "phoneNumber": "+1 (123) 456-7890"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010338-b0c822c4-0583-491a-8914-826c9515dbaf.svg",
+          "jobURL": "https://www.abcanalytics.com/careers/data-analyst",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Data Analytics",
+          "slugURL": "data-analyst"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "ABC Analytics is committed to diversity and inclusion.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "2",
+          "title": "Data Analyst",
+          "postedDate": "2024-05-02",
+          "closingDate": "2024-05-16"
+        },
+        "jobDetails": {
+          "description": "We are seeking a skilled Data Analyst to join our analytics team.",
+          "jobType": "Full-time",
+          "roleCategory": "Data Science",
+          "responsibilities": "Responsibilities include analyzing large datasets and generating insights.",
+          "skillsAndExperience": "Candidates should be proficient in SQL, Python, and data visualization techniques.",
+          "experienceLevel": "Entry-level",
+          "ourOffer": "We offer competitive salary and benefits, as well as opportunities for professional development."
+        },
+        "companyDetails": {
+          "companyID": "456",
+          "companyName": "ABC Analytics"
+        },
+        "locationAndRemoteWork": {
+          "city": "San Francisco",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science, Statistics, or related field",
+          "experienceRequired": 0,
+          "skillsRequired": ["SQL", "Python", "Data Analysis"]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 80 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": ["Hybrid", "Hea lth insurance", "Paid time off"]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and portfolio.",
+          "applicationRequirements": ["Resume", "Portfolio"]
+        },
+        "contactInformation": {
+          "contactPerson": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "phoneNumber": "+1 (123) 456-7890"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010378-a5ce62f6-0ea3-4b9e-aed1-aee6b32ca6a7.svg",
+          "jobURL": "https://www.abcanalytics.com/careers/data-analyst",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Data Analytics",
+          "slugURL": "data-analyst"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "ABC Analytics is committed to diversity and inclusion.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "3",
+          "title": "Software Engineer",
+          "postedDate": "2024-05-03",
+          "closingDate": "2024-05-17"
+        },
+        "jobDetails": {
+          "description": "We are looking for a skilled Software Engineer to join our development team.",
+          "jobType": "Full-time",
+          "roleCategory": "Software Engineering",
+          "responsibilities": "Responsibilities include developing and maintaining software applications.",
+          "skillsAndExperience": "Candidates should be proficient in Java, JavaScript, and web development frameworks.",
+          "experienceLevel": "Mid-level",
+          "ourOffer": "We offer competitive compensation and benefits, as well as opportunities for career growth."
+        },
+        "companyDetails": {
+          "companyID": "789",
+          "companyName": "XYZ Software"
+        },
+        "locationAndRemoteWork": {
+          "city": "New York",
+          "country": "USA",
+          "remoteWork": false,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science or related field",
+          "experienceRequired": 2,
+          "skillsRequired": ["Java", "JavaScript", "Web Development"]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "🌎 Remote",
+            "401(k) matching",
+            "Flexible work hours"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and cover letter.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "John Doe",
+          "email": "john.doe@example.com",
+          "phoneNumber": "+1 (123) 789-0123"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.xyzsoftware.com/careers/software-engineer",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Software Development",
+          "slugURL": "software-engineer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "XYZ Software is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": true }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "4",
+          "title": "Data Analyst",
+          "postedDate": "2024-05-04",
+          "closingDate": "2024-05-18"
+        },
+        "jobDetails": {
+          "description": "We are seeking a Data Analyst to join our analytics team and help drive data-driven decisions.",
+          "jobType": "Full-time",
+          "roleCategory": "Data Analysis",
+          "responsibilities": "Responsibilities include analyzing data, creating reports, and providing insights to stakeholders.",
+          "skillsAndExperience": "Candidates should have strong analytical skills and experience with data analysis tools.",
+          "experienceLevel": "Entry-level",
+          "ourOffer": "We offer competitive compensation, opportunities for professional development, and a collaborative work environment."
+        },
+        "companyDetails": {
+          "companyID": "456",
+          "companyName": "ABC Analytics"
+        },
+        "locationAndRemoteWork": {
+          "city": "San Francisco",
+          "country": "USA",
+          "remoteWork": false,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field",
+          "experienceRequired": 1,
+          "skillsRequired": [
+            "Data Analysis",
+            "SQL",
+            "Statistical Modeling"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 80 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": ["Hybrid", "Hea lth insurance", "Paid time off"]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please send your resume and a cover letter highlighting your relevant experience.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "phoneNumber": "+1 (456) 789-1234"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.abcanalytics.com/careers/data-analyst",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Data Analytics",
+          "slugURL": "data-analyst"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "ABC Analytics is committed to providing equal employment opportunities.",
+          "workAuthorizationRequirements": { "visaSponsorship": true }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "5",
+          "title": "Frontend Developer",
+          "postedDate": "2024-05-05",
+          "closingDate": "2024-05-20"
+        },
+        "jobDetails": {
+          "description": "We are looking for a skilled Frontend Developer to join our development team and help build user-friendly web applications.",
+          "jobType": "Full-time",
+          "roleCategory": "Software Development",
+          "responsibilities": "Responsibilities include developing frontend components, optimizing web applications for performance, and collaborating with backend developers.",
+          "skillsAndExperience": "Candidates should have proficiency in HTML, CSS, JavaScript, and experience with modern frontend frameworks.",
+          "experienceLevel": "Intermediate",
+          "ourOffer": "We offer competitive compensation, flexible work hours, and opportunities for growth and advancement."
+        },
+        "companyDetails": {
+          "companyID": "789",
+          "companyName": "XYZ Tech"
+        },
+        "locationAndRemoteWork": {
+          "city": "New York City",
+          "country": "USA",
+          "remoteWork": false,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science or related field",
+          "experienceRequired": 2,
+          "skillsRequired": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Angular",
+            "Vue.js"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health in surance",
+            "401(k) matching",
+            "Paid time off"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a portfolio showcasing your frontend development projects.",
+          "applicationRequirements": ["Resume", "Portfolio"]
+        },
+        "contactInformation": {
+          "contactPerson": "John Doe",
+          "email": "john.doe@example.com",
+          "phoneNumber": "+1 (123) 456-7890"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.xyztech.com/careers/frontend-developer",
+          "isUrgent": true,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Technology",
+          "slugURL": "frontend-developer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "XYZ Tech is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "6",
+          "title": "Marketing Manager",
+          "postedDate": "2024-05-06",
+          "closingDate": "2024-05-21"
+        },
+        "jobDetails": {
+          "description": "We are seeking an experienced Marketing Manager to lead our marketing efforts and drive brand awareness.",
+          "jobType": "Full-time",
+          "roleCategory": "Marketing",
+          "responsibilities": "Responsibilities include developing marketing strategies, managing marketing campaigns, and analyzing market trends.",
+          "skillsAndExperience": "Candidates should have strong leadership skills, experience in marketing management, and a deep understanding of digital marketing channels.",
+          "experienceLevel": "Senior",
+          "ourOffer": "We offer competitive compensation, comprehensive benefits, and opportunities for professional development."
+        },
+        "companyDetails": {
+          "companyID": "101112",
+          "companyName": "ABC Marketing"
+        },
+        "locationAndRemoteWork": {
+          "city": "Los Angeles",
+          "country": "USA",
+          "remoteWork": false,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Marketing, Business Administration, or related field",
+          "experienceRequired": 5,
+          "skillsRequired": [
+            "Marketing Strategy",
+            "Campaign Management",
+            "Digital Marketing",
+            "Leadership"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "🌎 Remote",
+            "Health in surance",
+            "401(k) matching",
+            "Paid time off"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a cover letter outlining your qualifications and why you are a good fit for this position.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "Jane Smith",
+          "email": "jane.smith@example.com",
+          "phoneNumber": "+1 (789) 123-4567"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.abcmarketing.com/careers/marketing-manager",
+          "isUrgent": true,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Marketing and Advertising",
+          "slugURL": "marketing-manager"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "ABC Marketing is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": true }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "8",
+          "title": "Data Scientist",
+          "postedDate": "2024-05-08",
+          "closingDate": "2024-05-23"
+        },
+        "jobDetails": {
+          "description": "We are seeking a talented Data Scientist to join our data analytics team and help analyze complex data sets.",
+          "jobType": "Full-time",
+          "roleCategory": "Data Science",
+          "responsibilities": "Responsibilities include collecting and analyzing data, developing machine learning models, and communicating insights to stakeholders.",
+          "skillsAndExperience": "Candidates should have strong analytical skills, proficiency in programming languages such as Python or R, and experience with data visualization tools.",
+          "experienceLevel": "Senior",
+          "ourOffer": "We offer competitive compensation, opportunities for professional development, and a collaborative work environment."
+        },
+        "companyDetails": {
+          "companyID": "161718",
+          "companyName": "Data Insights Inc."
+        },
+        "locationAndRemoteWork": {
+          "city": "San Francisco",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Master's degree or Ph.D. in Computer Science, Statistics, or related field",
+          "experienceRequired": 5,
+          "skillsRequired": [
+            "Data Analysis",
+            "Machine Learning",
+            "Statistical Modeling",
+            "Data Visualization"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 600, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health in surance",
+            "401(k) matching",
+            "Stock options"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a cover letter outlining your relevant experience and why you are interested in this position.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "Alice Johnson",
+          "email": "alice.johnson@example.com",
+          "phoneNumber": "+1 (987) 654-3210"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.datainsights.com/careers/data-scientist",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Data Analytics",
+          "slugURL": "data-scientist"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Data Insights Inc. is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "10",
+          "title": "Backend Developer",
+          "postedDate": "2024-05-10",
+          "closingDate": "2024-05-25"
+        },
+        "jobDetails": {
+          "description": "We are seeking a skilled Backend Developer to join our development team and help build robust and scalable server-side applications.",
+          "jobType": "Full-time",
+          "roleCategory": "Software Development",
+          "responsibilities": "Responsibilities include designing and implementing server-side logic, optimizing applications for performance, and collaborating with frontend developers to integrate user-facing elements.",
+          "skillsAndExperience": "Candidates should have proficiency in programming languages such as Node.js, Python, or Java, and experience with relational and NoSQL databases.",
+          "experienceLevel": "Intermediate",
+          "ourOffer": "We offer competitive compensation, opportunities for professional development, and a dynamic work environment."
+        },
+        "companyDetails": {
+          "companyID": "222324",
+          "companyName": "Backend Solutions Inc."
+        },
+        "locationAndRemoteWork": {
+          "city": "Austin",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science or related field",
+          "experienceRequired": 3,
+          "skillsRequired": ["Node.js", "Express.js", "MongoDB", "SQL"]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health in surance",
+            "Flexible work hours",
+            "Remote work option"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a brief summary of your experience with backend development.",
+          "applicationRequirements": ["Resume"]
+        },
+        "contactInformation": {
+          "contactPerson": "Emily Johnson",
+          "email": "emily.johnson@example.com",
+          "phoneNumber": "+1 (777) 987-6543"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.backendsolutions.com/careers/backend-developer",
+          "isUrgent": true,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Software Development",
+          "slugURL": "backend-developer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Backend Solutions Inc. is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "11",
+          "title": "UX/UI Designer",
+          "postedDate": "2024-05-15",
+          "closingDate": "2024-06-05"
+        },
+        "jobDetails": {
+          "description": "We are looking for a talented UX/UI Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design, possess superior UI skills, and be able to translate high-level requirements into interaction flows and artifacts.",
+          "jobType": "Full-time",
+          "roleCategory": "Design",
+          "responsibilities": "Responsibilities include conducting user research, creating wireframes, prototypes, and mockups, designing graphic elements, and collaborating with product management and engineering teams.",
+          "skillsAndExperience": "Candidates should have proven experience in UX/UI design, proficiency in design software such as Sketch, Adobe XD, or Figma, and a strong portfolio demonstrating past projects.",
+          "experienceLevel": "Intermediate",
+          "ourOffer": "We offer competitive compensation, flexible work hours, opportunities for professional growth, and a supportive work environment."
+        },
+        "companyDetails": {
+          "companyID": "767879",
+          "companyName": "DesignCrafters Ltd."
+        },
+        "locationAndRemoteWork": {
+          "city": "San Francisco",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Design, Human-Computer Interaction, or related field",
+          "experienceRequired": 2,
+          "skillsRequired": [
+            "User research",
+            "Wireframing",
+            "Prototyping",
+            "Graphic design"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health insurance",
+            "Flexible work hours",
+            "Remote work option"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a link to your online portfolio showcasing your design work.",
+          "applicationRequirements": ["Resume", "Online portfolio"]
+        },
+        "contactInformation": {
+          "contactPerson": "Sarah Lee",
+          "email": "sarah.lee@example.com",
+          "phoneNumber": "+1 (555) 123-4567"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.designcrafters.com/careers/ux-ui-designer",
+          "isUrgent": true,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Design",
+          "slugURL": "ux-ui-designer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "DesignCrafters Ltd. is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "12",
+          "title": "Data Scientist",
+          "postedDate": "2024-05-20",
+          "closingDate": "2024-06-10"
+        },
+        "jobDetails": {
+          "description": "We are seeking a skilled Data Scientist to join our team. The ideal candidate should have a strong background in statistics, mathematics, and computer science, along with experience in machine learning, data mining, and predictive modeling.",
+          "jobType": "Full-time",
+          "roleCategory": "Data Science",
+          "responsibilities": "Responsibilities include analyzing large datasets, developing machine learning models, interpreting and presenting findings to stakeholders, and contributing to data-driven decision-making processes.",
+          "skillsAndExperience": "Candidates should have proficiency in programming languages such as Python or R, experience with data analysis and visualization tools, and strong problem-solving skills.",
+          "experienceLevel": "Senior",
+          "ourOffer": "We offer competitive compensation, opportunities for professional development, and a collaborative work environment."
+        },
+        "companyDetails": {
+          "companyID": "989910",
+          "companyName": "DataTech Solutions Inc."
+        },
+        "locationAndRemoteWork": {
+          "city": "New York",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Master's or Ph.D. degree in Computer Science, Statistics, Mathematics, or related field",
+          "experienceRequired": 5,
+          "skillsRequired": [
+            "Machine learning",
+            "Data analysis",
+            "Python",
+            "Data visualization"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 600, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health insurance",
+            "401(k) matching",
+            "Paid time off"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please send your resume and a cover letter outlining your relevant experience and why you are interested in this position.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "Michael Johnson",
+          "email": "michael.johnson@example.com",
+          "phoneNumber": "+1 (555) 987-6543"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.datatechsolutions.com/careers/data-scientist",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Technology",
+          "slugURL": "data-scientist"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "DataTech Solutions Inc. is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "13",
+          "title": "Product Manager",
+          "postedDate": "2024-05-25",
+          "closingDate": "2024-06-15"
+        },
+        "jobDetails": {
+          "description": "We are looking for an experienced Product Manager to lead the development and launch of our innovative products. The ideal candidate should have a strong understanding of product development lifecycle, market research, and product strategy.",
+          "jobType": "Full-time",
+          "roleCategory": "Product Management",
+          "responsibilities": "Responsibilities include defining product vision and strategy, conducting market research, creating product roadmaps, and collaborating with cross-functional teams to deliver high-quality products.",
+          "skillsAndExperience": "Candidates should have proven experience in product management, excellent communication and leadership skills, and the ability to prioritize and execute tasks in a fast-paced environment.",
+          "experienceLevel": "Senior",
+          "ourOffer": "We offer competitive compensation, stock options, comprehensive benefits, and opportunities for career growth."
+        },
+        "companyDetails": {
+          "companyID": "121314",
+          "companyName": "InnoTech Solutions Ltd."
+        },
+        "locationAndRemoteWork": {
+          "city": "Seattle",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's or Master's degree in Business, Computer Science, or related field",
+          "experienceRequired": 7,
+          "skillsRequired": [
+            "Product management",
+            "Market research",
+            "Product strategy",
+            "Agile methodologies"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 600, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "🌎 Remote",
+            "Stock options",
+            "Health insurance",
+            "401(k) matching"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume along with a cover letter highlighting your relevant experience and why you are the right fit for this role.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "Emily Johnson",
+          "email": "emily.johnson@example.com",
+          "phoneNumber": "+1 (555) 876-5432"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.innotechsolutions.com/careers/product-manager",
+          "isUrgent": true,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Technology",
+          "slugURL": "product-manager"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "InnoTech Solutions Ltd. is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "16",
+          "title": "Data Scientist",
+          "postedDate": "2024-06-10",
+          "closingDate": "2024-07-10"
+        },
+        "jobDetails": {
+          "description": "We are seeking a talented Data Scientist to join our team and drive actionable insights from complex data sets. The ideal candidate should have expertise in statistical analysis, machine learning, and data visualization techniques.",
+          "jobType": "Full-time",
+          "roleCategory": "Data Science",
+          "responsibilities": "Responsibilities include developing predictive models, conducting exploratory data analysis, interpreting and communicating findings to stakeholders, and collaborating with cross-functional teams.",
+          "skillsAndExperience": "Candidates should have strong programming skills in Python or R, experience with data manipulation libraries (e.g., Pandas, NumPy), and a solid understanding of machine learning algorithms.",
+          "experienceLevel": "Senior",
+          "ourOffer": "We offer competitive salary, opportunities for professional development, and a collaborative work environment where you can make a meaningful impact."
+        },
+        "companyDetails": {
+          "companyID": "212223",
+          "companyName": "Data Insights Co."
+        },
+        "locationAndRemoteWork": {
+          "city": "New York",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Master's or Ph.D. in Computer Science, Statistics, or related field",
+          "experienceRequired": 5,
+          "skillsRequired": [
+            "Python",
+            "R",
+            "Machine Learning",
+            "Statistical Analysis"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 600, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health insurance",
+            "401(k) matching",
+            "Stock options"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a portfolio showcasing your data science projects and contributions.",
+          "applicationRequirements": ["Resume", "Portfolio"]
+        },
+        "contactInformation": {
+          "contactPerson": "Emily Johnson",
+          "email": "emily.johnson@example.com",
+          "phoneNumber": "+1 (555) 123-4567"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.datainsightsco.com/careers/data-scientist",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Data Analytics",
+          "slugURL": "data-scientist"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Data Insights Co. is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": true }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "18",
+          "title": "Financial Analyst",
+          "postedDate": "2024-06-20",
+          "closingDate": "2024-07-20"
+        },
+        "jobDetails": {
+          "description": "We are seeking a skilled Financial Analyst to join our finance team and provide insights into financial performance and trends. The ideal candidate should have strong analytical skills, attention to detail, and the ability to communicate complex financial information effectively.",
+          "jobType": "Full-time",
+          "roleCategory": "Finance",
+          "responsibilities": "Responsibilities include conducting financial analysis, preparing financial reports, forecasting financial trends, and collaborating with various stakeholders to drive financial decision-making.",
+          "skillsAndExperience": "Candidates should have a Bachelor's degree in Finance, Accounting, or related field, proficiency in financial modeling and analysis, and knowledge of accounting principles and regulations.",
+          "experienceLevel": "Intermediate",
+          "ourOffer": "We offer competitive salary, opportunities for career advancement, and a supportive work environment where you can contribute to meaningful financial initiatives."
+        },
+        "companyDetails": {
+          "companyID": "272829",
+          "companyName": "Financial Insights Group"
+        },
+        "locationAndRemoteWork": {
+          "city": "Chicago",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Finance, Accounting, or related field",
+          "experienceRequired": 2,
+          "skillsRequired": [
+            "Financial Analysis",
+            "Financial Modeling",
+            "Accounting",
+            "Excel"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "🌎 Remote",
+            "Health insurance",
+            "401(k) matching",
+            "Paid time off"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume and a cover letter detailing your relevant experience and why you are interested in this position.",
+          "applicationRequirements": ["Resume", "Cover letter"]
+        },
+        "contactInformation": {
+          "contactPerson": "Sarah Thompson",
+          "email": "sarah.thompson@example.com",
+          "phoneNumber": "+1 (555) 789-0123"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.financialinsightsgroup.com/careers/financial-analyst",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Financial Services",
+          "slugURL": "financial-analyst"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Financial Insights Group is an equal opportunity employer.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "19",
+          "title": "Graphic Designer",
+          "postedDate": "2024-06-25",
+          "closingDate": "2024-07-25"
+        },
+        "jobDetails": {
+          "description": "We are looking for a creative Graphic Designer to join our marketing team and help bring our brand vision to life through stunning visual assets. The ideal candidate should have a strong portfolio showcasing their design skills, attention to detail, and ability to collaborate with cross-functional teams.",
+          "jobType": "Full-time",
+          "roleCategory": "Design",
+          "responsibilities": "Responsibilities include creating engaging visual content for various marketing channels, collaborating with marketing and product teams to develop design concepts, and ensuring brand consistency across all assets.",
+          "skillsAndExperience": "Candidates should have a Bachelor's degree in Graphic Design or related field, proficiency in Adobe Creative Suite, strong understanding of design principles, and excellent communication skills.",
+          "experienceLevel": "Entry-level",
+          "ourOffer": "We offer competitive salary, opportunities for professional development, and a dynamic work environment where your creativity can thrive."
+        },
+        "companyDetails": {
+          "companyID": "303132",
+          "companyName": "Creative Solutions Inc."
+        },
+        "locationAndRemoteWork": {
+          "city": "New York",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": false
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Graphic Design or related field",
+          "experienceRequired": 0,
+          "skillsRequired": [
+            "Adobe Creative Suite",
+            "Typography",
+            "Layout Design",
+            "Brand Identity"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 80 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health insurance",
+            "Paid time off",
+            "Flexible work schedule"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume, portfolio, and a brief cover letter explaining why you are passionate about graphic design and why you would be a great fit for this role.",
+          "applicationRequirements": [
+            "Resume",
+            "Portfolio",
+            "Cover letter"
+          ]
+        },
+        "contactInformation": {
+          "contactPerson": "Alexandra Johnson",
+          "email": "alexandra.johnson@example.com",
+          "phoneNumber": "+1 (555) 123-4567"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.creativesolutionsinc.com/careers/graphic-designer",
+          "isUrgent": true,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Marketing and Advertising",
+          "slugURL": "graphic-designer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Creative Solutions Inc. is committed to providing equal employment opportunities to all qualified individuals without regard to race, color, religion, gender, sexual orientation, age, national origin, disability, or any other characteristic protected by law.",
+          "workAuthorizationRequirements": { "visaSponsorship": false }
+        }
+      },
+      {
+        "basicInformation": {
+          "jobID": "20",
+          "title": "Software Developer",
+          "postedDate": "2024-07-01",
+          "closingDate": "2024-08-01"
+        },
+        "jobDetails": {
+          "description": "We are seeking a skilled Software Developer to join our dynamic team. The ideal candidate will have a passion for coding, a strong understanding of software development principles, and the ability to work collaboratively on complex projects.",
+          "jobType": "Full-time",
+          "roleCategory": "Engineering",
+          "responsibilities": "Responsibilities include designing, coding, and debugging software applications, participating in code reviews, and collaborating with cross-functional teams to deliver high-quality solutions.",
+          "skillsAndExperience": "Candidates should have a Bachelor's degree in Computer Science or related field, proficiency in programming languages such as Java, Python, or C++, and experience with software development tools and methodologies.",
+          "experienceLevel": "Intermediate",
+          "ourOffer": "We offer competitive salary, comprehensive benefits package, and opportunities for professional growth and advancement in a supportive work environment."
+        },
+        "companyDetails": {
+          "companyID": "404142",
+          "companyName": "Tech Innovations Ltd."
+        },
+        "locationAndRemoteWork": {
+          "city": "San Francisco",
+          "country": "USA",
+          "remoteWork": true,
+          "hybrid": true
+        },
+        "qualifications": {
+          "educationRequired": "Bachelor's degree in Computer Science or related field",
+          "experienceRequired": 2,
+          "skillsRequired": [
+            "Java",
+            "Python",
+            "C++",
+            "Software Development",
+            "Agile Methodologies"
+          ]
+        },
+        "salaryAndBenefits": {
+          "salaryRange": { "min": 60, "max": 100 },
+          "hourlyRate": "",
+          "currency": "USD",
+          "benefits": [
+            "Hybrid",
+            "Health insurance",
+            "401(k) matching",
+            "Paid time off",
+            "Remote work option"
+          ]
+        },
+        "applicationProcess": {
+          "howToApply": "To apply, please submit your resume, cover letter, and portfolio (if applicable). Qualified candidates will be contacted for interviews.",
+          "applicationRequirements": [
+            "Resume",
+            "Cover letter",
+            "Portfolio"
+          ]
+        },
+        "contactInformation": {
+          "contactPerson": "Michael Thompson",
+          "email": "michael.thompson@example.com",
+          "phoneNumber": "+1 (555) 987-6543"
+        },
+        "additionalInformation": {
+          "companyLogoURL": "https://user-images.githubusercontent.com/2683512/225010662-ff72d4f4-0165-4402-acad-b93626489464.svg",
+          "jobURL": "https://www.techinnovations.com/careers/software-developer",
+          "isUrgent": false,
+          "isExternal": false,
+          "isVerified": true,
+          "industry": "Information Technology",
+          "slugURL": "software-developer"
+        },
+        "legalAndCompliance": {
+          "equalEmploymentOpportunityStatement": "Tech Innovations Ltd. is an equal opportunity employer and is committed to providing a workplace that is free from discrimination and harassment.",
+          "workAuthorizationRequirements": { "visaSponsorship": true }
+        }
+      }
+    ]
+  
